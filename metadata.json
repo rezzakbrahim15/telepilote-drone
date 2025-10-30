@@ -1,0 +1,7 @@
+{
+  "name": "Drone Pilot Training Guide",
+  "description": "An interactive guide to French and European (EASA/DGAC) drone regulations for 2025. Explore different flight categories (Open, Specific, Certified) and visualize flight scenarios and requirements.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
